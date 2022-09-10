@@ -43,3 +43,9 @@ export default App;
 //create a employee data and display it in UI
 //practice all datatypes for state variable
 
+
+//tasks
+//create a array of object and update it's second index
+//create a object, update it's 2 property value
+
+
